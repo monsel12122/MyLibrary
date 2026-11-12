@@ -1,0 +1,25 @@
+
+# React dependencies and build files
+node_modules/
+dist/
+
+# .NET build files
+bin/
+obj/
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+
+# Editor files
+.vs/
+.vscode/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
